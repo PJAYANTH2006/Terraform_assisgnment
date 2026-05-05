@@ -85,7 +85,8 @@ The public IP of the EC2 instance is displayed after creation.
 \* Only one instance is created
 
 \* Instance is deleted after testing to avoid charges
-
+“Faced issue with t2.micro, resolved using t3.micro”
+“Verified instance creation and deletion successfully”
 
 
 \## Result
